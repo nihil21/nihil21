@@ -1,4 +1,4 @@
-### Hello there, welcome to my GitHub profile :octocat:
+### Hello there, welcome to my GitHub profile <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 I'm Mattia Orlandi, a MSc student in Artificial Intelligence fond of photography, Computer Vision and Neuroscience.
 
 - 🔭 I’m currently working on Deep Learning based human-machine interaction.
