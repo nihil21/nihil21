@@ -19,7 +19,7 @@ I'm Mattia Orlandi, a MSc student in Artificial Intelligence fond of photography
    </td>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihil21&layout=compact&theme=tokyonight" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihil21&theme=tokyonight" />
     </a>
    </td>
   </tr>
