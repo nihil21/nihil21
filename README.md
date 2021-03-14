@@ -6,7 +6,7 @@ I'm Mattia Orlandi, a MSc student in Artificial Intelligence fond of photography
 - 💬 Ask me about anything.
 - ⚡ Fun fact: coffee and cats addict.
 
- <table>
+ <table border="0" rules=none>
   <tr>
     <th>GitHub stats</th>
     <th>Most used languages</th>
